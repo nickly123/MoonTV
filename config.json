@@ -108,6 +108,31 @@
     "zhenai": {
       "api": "https://api.zhenaiapi.com/api.php/provide/vod",
       "name": "真爱资源"
+    },
+    "meijuapi": {
+      "api": "https://api.meijuapi.com/api.php/provide/vod",
+      "name": "美剧资源",
+      "detail": "https://meijuapi.com"
+    },
+    "hanjuapi": {
+      "api": "https://api.hanjuapi.com/api.php/provide/vod",
+      "name": "韩剧资源",
+      "detail": "https://hanjuapi.com"
+    },
+    "mgtv": {
+      "api": "https://openapi.mgtv.com/api/v1/videos",
+      "name": "芒果TV",
+      "detail": "https://www.mgtv.com"
+    },
+    "tvmao": {
+      "api": "https://api.tvmao.com/api.php/provide/vod",
+      "name": "TV猫美剧",
+      "detail": "https://tvmao.com"
+    },
+    "vipabc": {
+      "api": "https://api.vipabc.com/api.php/provide/vod",
+      "name": "VIP美剧",
+      "detail": "https://vipabc.com"
     }
   }
 }
