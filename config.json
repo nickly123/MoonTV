@@ -12,7 +12,7 @@
       "detail": "https://heimuer.tv"
     },
     "ruyi": {
-      "api": "http://cj.rycjapi.com/api.php/provide/vod",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
     },
     "bfzy": {
@@ -84,6 +84,55 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "bilibili": {
+      "api": "https://api.bilibili.com/x/web-interface/search/all/v2",
+      "name": "哔哩哔哩",
+      "detail": "https://www.bilibili.com"
+    },
+    "iqiyi": {
+      "api": "https://openapi.iqiyi.com/videos",
+      "name": "爱奇艺",
+      "detail": "https://www.iqiyi.com"
+    },
+    "tencent": {
+      "api": "https://api.qq.com/v1/videos",
+      "name": "腾讯视频",
+      "detail": "https://v.qq.com"
+    },
+    "youku": {
+      "api": "https://openapi.youku.com/v2/videos",
+      "name": "优酷",
+      "detail": "https://www.youku.com"
+    },
+    "zhenai": {
+      "api": "https://api.zhenaiapi.com/api.php/provide/vod",
+      "name": "真爱资源"
+    },
+    "meijuapi": {
+      "api": "https://api.meijuapi.com/api.php/provide/vod",
+      "name": "美剧资源",
+      "detail": "https://meijuapi.com"
+    },
+    "hanjuapi": {
+      "api": "https://api.hanjuapi.com/api.php/provide/vod",
+      "name": "韩剧资源",
+      "detail": "https://hanjuapi.com"
+    },
+    "mgtv": {
+      "api": "https://openapi.mgtv.com/api/v1/videos",
+      "name": "芒果TV",
+      "detail": "https://www.mgtv.com"
+    },
+    "tvmao": {
+      "api": "https://api.tvmao.com/api.php/provide/vod",
+      "name": "TV猫美剧",
+      "detail": "https://tvmao.com"
+    },
+    "vipabc": {
+      "api": "https://api.vipabc.com/api.php/provide/vod",
+      "name": "VIP美剧",
+      "detail": "https://vipabc.com"
     }
   }
 }
